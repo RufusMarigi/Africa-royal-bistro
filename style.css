@@ -56,3 +56,16 @@ P {
 ul {
     list-style-type: disc;
 }
+
+footer {
+    border-top: 1px solid var(--white);
+    text-align: center;
+    padding-top: 1em;
+}
+
+footer img {
+    width: 70px;
+    height: 70px;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
