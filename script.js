@@ -1,4 +1,1 @@
-let book = {
-    topic: "Javascript",
-    edition: 7,
-};
+getElementById('nav').innerHTML = "Hello JavaScript";
